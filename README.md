@@ -1,5 +1,5 @@
-# CR's Resume Site
-CR Calabrese, June 2021
+# Tyler's Resume Site
+Tyler Calabrese, June 2021
 
 ## "Your Portfolio" lab for CS 120: Web Programming and Engineering with Prof. Ming Chow
 
